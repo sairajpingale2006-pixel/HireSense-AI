@@ -125,7 +125,7 @@ const LandingPage: React.FC = () => {
           >
             Neural Protocol v4.2 Active
           </motion.div>
-          <h1 className="text-5xl md:text-7xl lg:text-9xl font-bold tracking-tighter gradient-text drop-shadow-[0_0_15px_rgba(0,163,255,0.3)]">
+          <h1 className="text-[clamp(2.5rem,8vw,6rem)] font-bold tracking-tighter gradient-text drop-shadow-[0_0_15px_rgba(0,163,255,0.3)]">
             HireSense AI
           </h1>
           <p className="text-base md:text-xl lg:text-2xl text-muted-foreground/80 max-w-2xl mx-auto font-light tracking-wide">
